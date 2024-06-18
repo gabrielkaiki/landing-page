@@ -32,8 +32,6 @@
 .menu ul li a {
   display: block;
   padding: 2rem;
-  background: green;
-  border: 0.2rem solid black;
   font-size: 1.8rem;
   color: var(--primary-color);
   position: relative;
